@@ -1,3 +1,7 @@
+https://media0.giphy.com/media/3oz8xzF04ey6yQT4d2/giphy.gif
+
+Hii https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif I'm Rahul.
+
 # 💫About Me : I am a Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.
 
 🔭 I’m currently working on Mongo DB , Node JS , Express JS
