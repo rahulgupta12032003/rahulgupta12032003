@@ -1,4 +1,4 @@
-<h1>Hii <img src="https://media0.giphy.com/media/3oz8xzF04ey6yQT4d2/giphy.gif" >  I'm Rahul. </h>
+<h1>Hii <img src="https://media0.giphy.com/media/3oz8xzF04ey6yQT4d2/giphy.gif" >  I'm RAHUL. </h>
 
 # 💫About Me : I am a Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.
 
