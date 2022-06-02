@@ -1,6 +1,6 @@
-https://media0.giphy.com/media/3oz8xzF04ey6yQT4d2/giphy.gif
+<img src="https://media0.giphy.com/media/3oz8xzF04ey6yQT4d2/giphy.gif" >
 
-Hii https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif I'm Rahul.
+<h1>Hii <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif"> I'm Rahul. </h>
 
 # 💫About Me : I am a Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.
 
