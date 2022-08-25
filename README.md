@@ -21,7 +21,7 @@
 
 📫 How to reach me rahulgupta630738@gmail.com
 
-📄 Know about my experiences https://rahul-gupta-portfolioo.netlify.app/
+📄 Know about my experiences https://rahul-gupta.netlify.app/
 
 ⚡ Fun fact I think I am Creative and I love Music and I also likes exploring New Places and things.
 
