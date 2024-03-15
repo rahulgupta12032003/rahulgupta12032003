@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on Mongo DB , Node JS , Express JS
 
-🌱 I’m currently learning Node JS
+🌱 I’m currently learning Next JS
 
 👨‍💻 All of my projects are available at https://github.com/rahulgupta12032003
 
